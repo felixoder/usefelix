@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1 className="text-center font-bold text-6xl">
         Getting Started with Felix-detect-Fix
+        &copy; Debayan Ghosh <Link href="https://github.com/felixoder">@felixoder<Link>
       </h1>
         {/*
           model how to install the model how to check the validation how to try to generate the ipop program
