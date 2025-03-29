@@ -13,6 +13,7 @@ export default function Home() {
 
           extension and CLI etc
         */}
+      <p className="text-xl">
       What is felix-detect-fix. All right so have you ever written a tons of code but got fluked with that one simple line no 12 error. I got you and really it's a huge problem to open 
       LLM to process your code and getting fixed. May be you are thinking about copilot, that is indeed good my tbh I dont have 10-20 USD to pay them. So here I code this huge project
       where anyone can use a product somewhere like copilot that can analyze your code and check that there is bug or not. if it has bug it can recommend you the patch. And according
@@ -24,6 +25,7 @@ export default function Home() {
 
       So I built this as a task project in my industrial project at INTEL. So in this following documentation I will guide you how you can use my project felix-detect-fix. So Let&apos; 
       get started.
+      </p>
         <section>
           <h2 className="text-4xl mb-3 mt-2 font-semibold underline">Tutorial - 1 Use our model in your notebook to use:</h2>
           <div>
