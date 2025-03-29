@@ -14,7 +14,7 @@ export default function Home() {
           extension and CLI etc
         */}
       <p className="text-xl">
-      What is felix-detect-fix. All right so have you ever written a tons of code but got fluked with that one simple line no 12 error. I got you and really it's a huge problem to open 
+      <span className="text-2xl text-blue-400">What is felix-detect-fix?</span> All right so have you ever written a tons of code but got fluked with that one simple line no 12 error. I got you and really it's a huge problem to open 
       LLM to process your code and getting fixed. May be you are thinking about copilot, that is indeed good my tbh I dont have 10-20 USD to pay them. So here I code this huge project
       where anyone can use a product somewhere like copilot that can analyze your code and check that there is bug or not. if it has bug it can recommend you the patch. And according
       to our testing we have got more than 80% accuarcy.
