@@ -13,6 +13,17 @@ export default function Home() {
 
           extension and CLI etc
         */}
+      What is felix-detect-fix. All right so have you ever written a tons of code but got fluked with that one simple line no 12 error. I got you and really it's a huge problem to open 
+      LLM to process your code and getting fixed. May be you are thinking about copilot, that is indeed good my tbh I dont have 10-20 USD to pay them. So here I code this huge project
+      where anyone can use a product somewhere like copilot that can analyze your code and check that there is bug or not. if it has bug it can recommend you the patch. And according
+      to our testing we have got more than 80% accuarcy.
+
+      Now our second goal is building a model is good. but we know a huge amount of people they don't actually care about how the model works instead they want their job done easily. so
+      I built an Vs code (visual studio code) extension for you where if you have a buggy code or there is a bug in your code that can be patched in place within a minute. and everything is 
+      completely without internet.
+
+      So I built this as a task project in my industrial project at INTEL. So in this following documentation I will guide you how you can use my project felix-detect-fix. So Let&apos; 
+      get started.
         <section>
           <h2 className="text-4xl mb-3 mt-2 font-semibold underline">Tutorial - 1 Use our model in your notebook to use:</h2>
           <div>
