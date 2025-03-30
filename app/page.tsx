@@ -36,10 +36,10 @@ export default function Home() {
                 or zsh/bash in macos or linux.
 
               <Code>
-                python -v // for windows
+                python // for windows
               </Code>
               <Code>
-                python3 -v // for macos or linux
+                python3 // for macos or linux
               </Code>
             If you are getting something like this
             <Code>
@@ -47,7 +47,7 @@ export default function Home() {
             </Code>
 
                 <span className="text-4xl underline">STEP - 2: </span>
-                You are good to go now install the jupyter notebook [if you want to use VS code you can but its good to install jupyter notebook.]
+                You are good to go now install the jupyter notebook [if you want to use VS code you can but its good to install jupyter notebook.] also make sure to have pip with you (package manager for python)
                 <Code>
                     pip install jupyterlab  
                 </Code>
